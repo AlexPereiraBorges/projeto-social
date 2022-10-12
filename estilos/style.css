@@ -59,4 +59,5 @@ section#redes-sociais img:hover {
     transform: translate(-5px, -5px);
     box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.842);
     transition: transform 0.4s, border 1s;
+    /* transition e muito util*/
 }
